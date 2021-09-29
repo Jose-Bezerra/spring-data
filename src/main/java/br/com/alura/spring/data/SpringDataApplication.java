@@ -27,7 +27,7 @@ public class SpringDataApplication implements CommandLineRunner {
 		Scanner scanner = new Scanner(System.in);
 
 		while (system) {
-			System.out.println("Digite a ação desejada: ");
+			System.out.println("Digite a opção desejada: ");
 			System.out.println("0 - Sair");
 			System.out.println("1 - Cargo");
 
